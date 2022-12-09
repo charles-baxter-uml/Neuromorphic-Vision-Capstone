@@ -1,0 +1,23 @@
+﻿<Window x:Class="DataCollection.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataCollection"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="Capture_Button" Content="Capture" HorizontalAlignment="Right" Height="55" Margin="0,0,10,10" VerticalAlignment="Bottom" Width="216"/>
+        <Image x:Name="Capture_Image" HorizontalAlignment="Left" Height="166" Margin="10,10,0,0" VerticalAlignment="Top" Width="324"/>
+        <Grid DataContext="{Binding Orientation}" HorizontalAlignment="Right" Height="92" Margin="0,10,10,0" VerticalAlignment="Top" Width="197">
+            <TextBlock HorizontalAlignment="Left" Height="29" TextWrapping="Wrap" Text="X" VerticalAlignment="Top" Width="11" Margin="0,30,0,0"/>
+            <TextBox HorizontalAlignment="Left" Height="30" Margin="22,0,0,0" TextWrapping="Wrap" Text="{Binding X, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Top" Width="165"/>
+            <TextBlock HorizontalAlignment="Left" Height="32" TextWrapping="Wrap" Text="Y" VerticalAlignment="Bottom" Width="11"/>
+            <TextBox HorizontalAlignment="Left" Height="30" Margin="22,0,0,0" TextWrapping="Wrap" Text="{Binding Y, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Center" Width="165"/>
+            <TextBlock HorizontalAlignment="Left" Height="30" TextWrapping="Wrap" Text="Z" VerticalAlignment="Top" Width="22"/>
+            <TextBox HorizontalAlignment="Left" Height="30" Margin="22,61,0,0" TextWrapping="Wrap" Text="{Binding Z, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Top" Width="165"/>
+        </Grid>
+        <ComboBox x:Name="SubjectSelection_ComboBox" Text="Subject" HorizontalAlignment="Left" Height="55" Margin="10,0,0,10" VerticalAlignment="Bottom" Width="366"/>
+
+    </Grid>
+</Window>
