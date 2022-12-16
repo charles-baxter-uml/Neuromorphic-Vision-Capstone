@@ -1,0 +1,9 @@
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\ConsoleExample\bin\Debug\ConsoleExample.exe
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\ConsoleExample\bin\Debug\ConsoleExample.pdb
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\ConsoleExample\bin\Debug\EDSDKLib.dll
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\ConsoleExample\bin\Debug\EDSDKLib.pdb
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\ConsoleExample\obj\x86\Debug\ConsoleExample.csproj.AssemblyReference.cache
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\ConsoleExample\obj\x86\Debug\ConsoleExample.csproj.CoreCompileInputs.cache
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\ConsoleExample\obj\x86\Debug\ConsoleExample.csproj.CopyComplete
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\ConsoleExample\obj\x86\Debug\ConsoleExample.exe
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\ConsoleExample\obj\x86\Debug\ConsoleExample.pdb

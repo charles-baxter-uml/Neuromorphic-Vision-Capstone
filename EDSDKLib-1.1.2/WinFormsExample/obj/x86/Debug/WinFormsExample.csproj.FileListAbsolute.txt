@@ -1,0 +1,11 @@
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\WinFormsExample\bin\Debug\WinFormsExample.exe
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\WinFormsExample\bin\Debug\WinFormsExample.pdb
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\WinFormsExample\bin\Debug\EDSDKLib.dll
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\WinFormsExample\bin\Debug\EDSDKLib.pdb
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\WinFormsExample\obj\x86\Debug\WinFormsExample.csproj.AssemblyReference.cache
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\WinFormsExample\obj\x86\Debug\WinFormsExample.MainForm.resources
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\WinFormsExample\obj\x86\Debug\WinFormsExample.csproj.GenerateResource.cache
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\WinFormsExample\obj\x86\Debug\WinFormsExample.csproj.CoreCompileInputs.cache
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\WinFormsExample\obj\x86\Debug\WinFormsExample.csproj.CopyComplete
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\WinFormsExample\obj\x86\Debug\WinFormsExample.exe
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\WinFormsExample\obj\x86\Debug\WinFormsExample.pdb

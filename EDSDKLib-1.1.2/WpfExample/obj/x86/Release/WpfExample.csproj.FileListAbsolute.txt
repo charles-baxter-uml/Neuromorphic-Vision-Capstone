@@ -1,0 +1,16 @@
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\WpfExample\bin\Release\WpfExample.exe
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\WpfExample\bin\Release\WpfExample.pdb
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\WpfExample\bin\Release\EDSDKLib.dll
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\WpfExample\bin\Release\EDSDKLib.pdb
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\WpfExample\bin\Release\EDSDKLib.xml
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\WpfExample\obj\x86\Release\WpfExample.csproj.AssemblyReference.cache
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\WpfExample\obj\x86\Release\MainWindow.g.cs
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\WpfExample\obj\x86\Release\App.g.cs
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\WpfExample\obj\x86\Release\WpfExample_MarkupCompile.cache
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\WpfExample\obj\x86\Release\WpfExample_MarkupCompile.lref
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\WpfExample\obj\x86\Release\MainWindow.baml
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\WpfExample\obj\x86\Release\WpfExample.g.resources
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\WpfExample\obj\x86\Release\WpfExample.csproj.CoreCompileInputs.cache
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\WpfExample\obj\x86\Release\WpfExample.csproj.CopyComplete
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\WpfExample\obj\x86\Release\WpfExample.exe
+C:\Users\chuck\Documents\GitHub\EDSDKLib-1.1.2\WpfExample\obj\x86\Release\WpfExample.pdb
